@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230410 - 143129
+  m_EditorClassIdentifier: 
+  m_name: Session 20230410-143129
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 10.04.2023 14:31:29
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 12.5
+  m_spawnDensity: 0.6
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:31:48
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 143149
+    m_operationDateTime: 10.04.2023 14:31:49
+    scriptableObjectAssetGUID: b01608ea7fa8f5aee8f5454218c08f06
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 512'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:35:35
+    scriptableObjectAssetGUID: ae253acca1e6d875eb87b4a6a4ad6037
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (7)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 143149
+    m_operationDateTime: 10.04.2023 14:35:45
+    scriptableObjectAssetGUID: 556a7edf81c53815cb486763409183a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 512'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:36:38
+    scriptableObjectAssetGUID: 39efc50d7814c9aa096deb0d19a6ea9e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:36:57
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 143657
+    m_operationDateTime: 10.04.2023 14:36:57
+    scriptableObjectAssetGUID: 70a7b3b8f9d7d4d48a10f697d9646c6b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 143657
+    m_operationDateTime: 10.04.2023 14:37:04
+    scriptableObjectAssetGUID: 98a20588aecce5b1eb939d748f6c1e8d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 143657
+    m_operationDateTime: 10.04.2023 14:37:08
+    scriptableObjectAssetGUID: fc0607bb747389b9597f4b004204d5b0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 9e9fbcbc047539ee5ac3f4642340f602
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 512
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 1.3002642
+    max: 24.189495
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20230410 - 143657_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_12
+    fullPath: /home/silago/work/ThoseWhoSurvive/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230410 - 143657_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerTree_3584_5
+    fullPath: /home/silago/work/ThoseWhoSurvive/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230410 - 143657_LayerGameObject_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_5
+    fullPath: /home/silago/work/ThoseWhoSurvive/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20230410 - 143657_LayerGameObject_3584_0,5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_0,5
+    fullPath: /home/silago/work/ThoseWhoSurvive/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20230410
+      - 143657/Terrain_0_0-20230410 - 143657_LayerGameObject_3584_0,5
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

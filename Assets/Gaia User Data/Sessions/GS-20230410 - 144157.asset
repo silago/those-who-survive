@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20230410 - 144157
+  m_EditorClassIdentifier: 
+  m_name: Session 20230410-144157
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 10.04.2023 14:41:57
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 12.5
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:42:21
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:42:21
+    scriptableObjectAssetGUID: 20aec1ef4cf8033b9a625438867a68b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:42:29
+    scriptableObjectAssetGUID: 9ef45eb0f32a3e0609740ddfe93dc9b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:42:52
+    scriptableObjectAssetGUID: aa621c9e30ee9b193b22ed48a2cb0e0d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Medium Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:42:56
+    scriptableObjectAssetGUID: e82e9c4bb8bc28c83800f99ef202b2f8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:42:58
+    scriptableObjectAssetGUID: e31869a33e37dbf40a1eadf41541c3fa
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:43:02
+    scriptableObjectAssetGUID: ad3defa0b8f29fc0f86b72860534a274
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:43:13
+    scriptableObjectAssetGUID: 3f3d4674964aacd128516d69af209ce9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:43:31
+    scriptableObjectAssetGUID: 5189ed60975c85fee88906c314b7e80e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Small Farms Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:43:32
+    scriptableObjectAssetGUID: 768420d0f95a23288a02986094cef10d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:43:59
+    scriptableObjectAssetGUID: 2be1d65e542f2b5f891323b7c4e4321b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:44:22
+    scriptableObjectAssetGUID: e474c8e6c2d83ece590282fedf75750a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:44:23
+    scriptableObjectAssetGUID: 23647db7221bddd8ea01a5b8a705ec6d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:44:36
+    scriptableObjectAssetGUID: 85b6d9699f3c9d31d825af1a9cc4e236
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Large Village Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:44:37
+    scriptableObjectAssetGUID: 53d2e46fe03b3c226a0aff7694a3bc3b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:45:39
+    scriptableObjectAssetGUID: 4819db69c4b6e0d9caffe56ce1369b14
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:46:13
+    scriptableObjectAssetGUID: b7812388d9e12eb13b4a6f8090ac8341
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144221
+    m_operationDateTime: 10.04.2023 14:46:20
+    scriptableObjectAssetGUID: 6f92ccdbbbe12df7c82ed234b192482e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:49:50
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20230410 - 144950
+    m_operationDateTime: 10.04.2023 14:49:50
+    scriptableObjectAssetGUID: 1c9591c238f03c23780548a9a35f83b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 1 x 1 tiles, tile size: 512'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:52:17
+    scriptableObjectAssetGUID: c63d5228447926cd1a773fa05b117c09
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10.04.2023 14:52:24
+    scriptableObjectAssetGUID: 94d34cf64ff367080a9b20515fea2e8f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 1421d83c9ee8c3353ba3f5b02678a2a2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 512
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 27.97594
+  - guid: 4e62adf468ee86f2ea31f74ddf8f8d92
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 512
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
